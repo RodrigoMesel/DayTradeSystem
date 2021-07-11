@@ -6,6 +6,8 @@ It consists in validate the use of Random Forest for predicting the Maximum and 
 
 It's based on the approach studyied and suggested by Martinez (https://www.researchgate.net/publication/221533996_From_an_artificial_neural_network_to_a_stock_market_day-trading_system_A_case_study_on_the_BMF_BOVESPA).
 
+You can check my proposal here: https://www.cin.ufpe.br/~tg/2020-2/propostas_EC/prop_acaf2.pdf
+
 ### Experiments
 
 The experiments were made over the two historically most negotiated stocks in Bobvespa: Petrobras(PETR4) and Vale (VALE3). They are structured in the following way:
