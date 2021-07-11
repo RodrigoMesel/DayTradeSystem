@@ -10,11 +10,12 @@ It's based on the approach studyied and suggested by Martinez (https://www.resea
 
 The experiments were made over the two historically most negotiated stocks in Bobvespa: Petrobras(PETR4) and Vale (VALE3). They are structured in the following way:
 
-1st Part: Predictions
+1st Part - Predictions:
   1. Benchmarks;
   2. Martinez Experiment Reproduction;
   3. Improving the proposed MLP;
   4. Evaluating Random Forest for this problem;
   5. Running Random Forest for any stock.
 
-2nd Part: Suggestions
+2nd Part - Suggestions:
+  1. [None]
