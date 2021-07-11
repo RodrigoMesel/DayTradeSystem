@@ -1,4 +1,4 @@
-# DayTrade_System
+# DayTrade System
 
 Repository for sharing result of my final assignment experiments.
 
