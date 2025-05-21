@@ -105,7 +105,7 @@ def getPeriod(df, begin, end, resetIndex = False):
 
 def mape(actual, pred): 
     """
-    Calculate the MAPE - Mean Average Percentual Error - between two Lists.
+    Calculate the MAPE -  - between two Lists.
     
     actual: List of the real values
     pred  : List of the predicted values
